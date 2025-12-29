@@ -1,0 +1,38 @@
+Total Universities Found: 36
+------------------------------
+1. Abu Dhabi University
+2. Amity  University Dubai
+3. BITS Pillani Dubai
+4. Britts Imperial University College FZC (BIUC)
+5. Canadian University
+6. Curtin University 
+7. De Montfort University
+8. DeMont Institute of Management & Technology
+9. EM Normandie Business School
+10. Emirates Aviation University
+11. Hult 
+12. Jaipur National University
+13. Manipal University Dubai
+14. Middlesex University
+15. Nest Academy of Management Education
+16. SP Jain Dubai
+17. Symbiosis International University Dubai
+18. University of Bolton - WINC
+19. University of Dubai
+20. University of Europe for Applied Science
+21. University of Sterling 
+22. University of West London
+23. University of Wollongong
+24. Westford University College
+25. Murdoch University 
+26. Regent Middle East
+27. Sucess Point College - University of Hertfordshire
+28. Rochester Institute of Technology
+29. ICCA - International Centre for Culinary Arts
+30. The Woolwich Institute
+31. Dubai Institute of Design and Innovation (DIDI)
+32. UK College of Business and Computing
+33. Vibe Education
+34. Heriot Watt University
+35. University of Birmingham
+36. FAD INSTITUTE OF LUXURY FASHION & STYLE

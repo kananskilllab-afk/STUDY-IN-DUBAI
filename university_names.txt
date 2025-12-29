@@ -1,0 +1,23 @@
+Columns: Sr. No, University Name, Campus in UAE, Tie-up Type, Pathway, Pathway Course
+--------------------
+    Sr. No                                University Name                                                          Campus in UAE Tie-up Type    Pathway       Pathway Course
+0        1                           Abu Dhabi University                                               Abu Dhabi\nDubai\nAl Ain      Direct        NaN                  NaN
+1        2                        Amity  University Dubai                                                    Dubai Academic City      Direct        NaN                  NaN
+2        3                             BITS Pillani Dubai                                                    Dubai Academic City      Direct        NaN                  NaN
+3        4  Britts Imperial University College FZC (BIUC)                                                                Sharjah      Direct     France            Bachelors
+4        5                            Canadian University                                            Dubai Knowledge Park Campus      Direct     Canada            Bachelors
+5        6                             Curtin University                                                     Dubai Academic City      Direct  Australia            Bachelors
+6        7                         De Montfort University                                                    Dubai Academic City      Direct         UK            Bachelors
+7        8    DeMont Institute of Management & Technology                                                                  Dubai      Direct         UK            Bachelors
+8        9                   EM Normandie Business School                                                                  Dubai      Direct     France            Bachelors
+9       10                   Emirates Aviation University                                                                  Dubai      Direct        NaN                  NaN
+10      11                                          Hult                                                     Dubai Internet City      Direct        NaN                  NaN
+11      12                     Jaipur National University                                                         Ras Al Khaimah      Direct        NaN                  NaN
+12      13                       Manipal University Dubai                                                    Dubai Academic City      Direct        NaN                  NaN
+13      14                           Middlesex University  Dubai Knowledge Park Campus\nDubai International Academic City Campus      Direct         UK            Bachelors
+14      15           Nest Academy of Management Education                                                                  Dubai      Direct         UK            Bachelors
+15      16                                  SP Jain Dubai                                                    Dubai Academic City      Direct  Australia            Bachelors
+16      17       Symbiosis International University Dubai                                            Dubai Knowledge Park Campus      Direct        NaN                  NaN
+17      18                    University of Bolton - WINC                                                         Ras Al Khaimah      Direct         UK            Bachelors
+18      19                            University of Dubai                                                                  Dubai      Direct        NaN                  NaN
+19      20       University of Europe for Applied Science                                                                  Dubai      Direct    Germany  Bachelors & Masters
