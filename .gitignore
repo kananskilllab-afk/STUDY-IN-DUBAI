@@ -1,7 +1,7 @@
-# Large video files (use CDN instead)
-*.mp4
+# Large video files (use compressed version instead)
 BGVID.mp4
 background-video.mp4
+# Allow compressed video: BGVID (1).mp4
 
 # Node modules
 node_modules/
