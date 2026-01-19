@@ -1,5 +1,20 @@
-__pycache__/
-*.pyc
+# Large video files (use CDN instead)
+*.mp4
+BGVID.mp4
+background-video.mp4
+
+# Node modules
+node_modules/
+package-lock.json
+
+# OS files
 .DS_Store
+Thumbs.db
+
+# IDE files
 .vscode/
-.vercel/
+.idea/
+
+# Temporary files
+*.tmp
+*.log
